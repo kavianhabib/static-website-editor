@@ -1,0 +1,4 @@
+SELECTED_FOLDER =C:/Users/tak/Documents/SMARTSite - copy for editor
+SELECTED_DES_FOLDER =C:/Users/tak/Documents/SMARTSite - copy for editor
+STYLE_CSS_DIR =C:/Users/tak/Documents/SMARTSite - copy for editor/css/style-0.1.css
+DATA_FOLDER_DIR =C:/Users/tak/Documents/SMARTSite - copy for editor\Editor_Data
